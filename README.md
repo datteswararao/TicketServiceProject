@@ -1,6 +1,4 @@
-# READMETEMPLATE
 
-===============
 # Project Title
 
 Ticketing Service
